@@ -46,5 +46,7 @@
 | :--- | :--- | :--- |
 | **Linux Mint** | [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | [PR #13648: Fixed background image ghosting](https://github.com/linuxmint/cinnamon/pull/13648) |
 | **NSA Ghidra** | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [PR #8633: Documentation and Typo Fixes](https://github.com/NationalSecurityAgency/ghidra/pull/8633) |
+| **openwebui-importer** | [yetanotherchris/openwebui-importer](https://github.com/yetanotherchris/openwebui-importer) | [PR #33: Fix SQL Bug](https://github.com/yetanotherchris/openwebui-importer/pull/33) |
+| **PyBonsai** | [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai/) | [PR #6: Add support for piping output to a file](https://github.com/Ben-Edwards44/PyBonsai/pull/6) |
 | **TinyAuth** | [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) | [PR #364: Typo fixes](https://github.com/tinyauthapp/tinyauth/pull/364) |
-
+| **Web-Calc-Emulator** | [CalcWorld/Web-Calc-Emulator](https://github.com/CalcWorld/Web-Calc-Emulator) | [PR #6: Add PWA Support](https://github.com/CalcWorld/Web-Calc-Emulator/pull/6/) |
