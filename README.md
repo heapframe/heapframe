@@ -37,3 +37,14 @@
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden" />
   <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-Hole" />
 </p>
+
+---
+
+# 🤝 Open Source Contributions
+
+| Project | Repository | Contribution |
+| :--- | :--- | :--- |
+| **Linux Mint** | [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | [PR #13648: Fixed background image ghosting](https://github.com/linuxmint/cinnamon/pull/13648) |
+| **NSA Ghidra** | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [PR #8633: Documentation and Typo Fixes](https://github.com/NationalSecurityAgency/ghidra/pull/8633) |
+| **TinyAuth** | [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) | [PR #364: Typo fixes](https://github.com/tinyauthapp/tinyauth/pull/364) |
+
