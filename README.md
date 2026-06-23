@@ -44,6 +44,7 @@
 
 | Project | Repository | Contribution |
 | :--- | :--- | :--- |
+| **GCHQ CyberChef**| [gchq/CyberChef](https://github.com/gchq/CyberChef/) | [PR #2458: Add integer check for alphabet size](https://github.com/gchq/CyberChef/pull/2458) |
 | **Linux Mint** | [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) | [PR #13648: Fixed background image ghosting](https://github.com/linuxmint/cinnamon/pull/13648) |
 | **NSA Ghidra** | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | [PR #8633: Documentation and Typo Fixes](https://github.com/NationalSecurityAgency/ghidra/pull/8633) |
 | **openwebui-importer** | [yetanotherchris/openwebui-importer](https://github.com/yetanotherchris/openwebui-importer) | [PR #33: Fix SQL Bug](https://github.com/yetanotherchris/openwebui-importer/pull/33) |
