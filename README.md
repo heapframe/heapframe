@@ -1,9 +1,8 @@
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=heapframe&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
-  <img src="https://streak-stats.demolab.com/?user=heapframe&theme=onedark&hide_border=true" alt="Streak Stats" />
-  <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=heapframe&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=heapframe&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
 </p>
 
 ---
