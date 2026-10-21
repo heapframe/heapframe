@@ -29,7 +29,7 @@
 # 🛡️ Cybersecurity
 <p align="center">
   <a href="https://tryhackme.com/p/axjp">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/axjp.png" alt="TryHackMe Badge">
+    <img src="https://cdn-images.tryhackme.com/public-profile/axjp/badge-dark-819445a472f0.png" alt="axjp's TryHackMe badge." width="400">
   </a>
   <br />
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR" />
